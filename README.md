@@ -2,6 +2,9 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8930DF&width=435&lines=%F0%9D%94%8F%F0%9D%94%A6%F0%9D%94%B3%F0%9D%94%A2+%2C+%F0%9D%94%8F%F0%9D%94%9E%F0%9D%94%B2%F0%9D%94%A4%F0%9D%94%A5+%2C+%F0%9D%94%A9%F0%9D%94%AC%F0%9D%94%B3%F0%9D%94%A2+.;%F0%9D%94%A6%F0%9D%94%A3+%F0%9D%94%B1%F0%9D%94%A5%F0%9D%94%9E%F0%9D%94%B1+%F0%9D%94%A1%F0%9D%94%AC%F0%9D%94%A2%F0%9D%94%B0%F0%9D%94%AB'%F0%9D%94%B1+%F0%9D%94%B4%F0%9D%94%AC%F0%9D%94%AF%F0%9D%94%A8+.;%F0%9D%94%8F%F0%9D%94%AC%F0%9D%94%9E%F0%9D%94%A1+%2C+%F0%9D%94%9E%F0%9D%94%A6%F0%9D%94%AA+%F0%9D%94%9E%F0%9D%94%AB%F0%9D%94%A1+%F0%9D%94%89%F0%9D%94%A6%F0%9D%94%AF%F0%9D%94%A2" alt="Typing SVG" /></a>
 
+
+<img width="736" height="460" alt="image" src="https://github.com/user-attachments/assets/3ef00197-8bbc-45bb-bc7b-1bc24056f096" />
+
 <!--
 **flinvark/flinvark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
